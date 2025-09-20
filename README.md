@@ -6,8 +6,6 @@ CPU mode.
 
 To play:
 ```shell
-$ git clone https://github.com/gattosintetico/XTetris
-$ cd XTetris
 $ make (inside the XTetris folder)
 ```
 
